@@ -1,5 +1,6 @@
 # Sobre a pasta
-Vou colocar aqui anotações e conteúdo que eu acho úteis, sinta-se a vontade para copiar, colar e/ou modificar
+Vou colocar aqui anotações e conteúdo que eu acho úteis
 ---
 ## Observação
+Existe conteudo de terceiros presente aqui 
 Descrever de forma resumida as modificações feitas nos commits
