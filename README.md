@@ -1,16 +1,7 @@
 # Java Lessons
 
-Repositório criado para registrar nossas aulas, exercícios e projetos enquanto estudamos Java juntos.
+Repositório criado para registrar aulas, exercícios e projetos enquanto estudo Java.
 
-
-## Como vamos estudar
-
-Cada assunto terá:
-
--  Uma breve explicação
--  Exemplos de código
--  Exercícios
--  Um desafio
 
 ## Conteúdo
 
