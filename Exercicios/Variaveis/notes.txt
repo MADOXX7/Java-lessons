@@ -10,3 +10,5 @@ float	32 bits	Números decimais, menor precisão	float altura = 1.85f;
 double	64 bits	Números decimais, maior precisão — mais usado	double preco = 19.99;
 char	16 bits	Um único caractere	char inicial = 'G';
 boolean	—	Verdadeiro ou falso	boolean ativo = true;
+
+Existe tambem a String, que não é um tipo primitivo, mas uma cadeia de caracteres.
