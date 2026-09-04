@@ -1,0 +1,12 @@
+OS TIPOS PRIMITIVOS
+
+
+Tipo	Tamanho	O que representa	Exemplo
+byte	8 bits	Números inteiros pequenos	byte idade = 18;
+short	16 bits	Números inteiros um pouco maiores	short ano = 2026;
+int	32 bits	Números inteiros — mais usado	int idade = 18;
+long	64 bits	Números inteiros muito grandes	long populacao = 8000000000L;
+float	32 bits	Números decimais, menor precisão	float altura = 1.85f;
+double	64 bits	Números decimais, maior precisão — mais usado	double preco = 19.99;
+char	16 bits	Um único caractere	char inicial = 'G';
+boolean	—	Verdadeiro ou falso	boolean ativo = true;
