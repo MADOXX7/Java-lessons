@@ -1,4 +1,4 @@
-package Exercícios.Métodos;
+package Exercicios.Métodos;
 
 public class metodos { // Declaração de classe
 
